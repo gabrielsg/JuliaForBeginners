@@ -1,0 +1,7 @@
+name = "JuliaForBeginners"
+uuid = "b8799190-0e91-4d87-90b5-9dd6522d2fe3"
+authors = ["gabriel "]
+version = "0.1.0"
+
+[deps]
+OhMyREPL = "5fb14364-9ced-5910-84b2-373655c76a03"
